@@ -10,10 +10,9 @@ This repo holds the course materials for the programming crash course held by th
 
 [Exercise block 1](https://colab.research.google.com/drive/1jwpNnUPqjkGqdmldZCsI92EBRblhP4vm?usp=share_link)
 
-[Handling data](https://colab.research.google.com/drive/1jwpNnUPqjkGqdmldZCsI92EBRblhP4vm?usp=share_link)
-
 -----------------------------------------------------------------------------------------------
 ### Block 2
+[Handling data](https://colab.research.google.com/drive/1jwpNnUPqjkGqdmldZCsI92EBRblhP4vm?usp=share_link)
 
 [Exercise block 2](https://colab.research.google.com/drive/1bcqme88X4rR19Wa4T_83ZfO7CyBywhqr?usp=sharing)
 
